@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.neuronrobotics:nrjavaserial:3.13.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.neuronrobotics/nrjavaserial/3.13.0/e52bfa4defdcc5acb17046267960655a03abec5/nrjavaserial-3.13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.neuronrobotics/nrjavaserial/3.13.0/62998b298546b40216f0d6d85536a9e9ac30b49b/nrjavaserial-3.13.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
